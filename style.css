@@ -1,0 +1,17 @@
+.jumbotron { 
+    justify-content: center;
+    text-align: center;   
+    padding: 90px;
+}
+
+.past {
+    background-color: grey;
+}
+
+.present {
+    background-color: red;
+}
+
+.future {
+    background-color: green;
+}
